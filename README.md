@@ -1,5 +1,5 @@
-# We actively recruit
+# We recruit
 
-- A **front-end developer**: [application form](https://actstar.typeform.com/to/T2a1xA), [tweet](https://twitter.com/Altavia_ACT/status/989063243955146753).
+- A **back-end developer**: [application form](https://actstar.typeform.com/to/UEwWYb).
 
-_We are making a new website for our company. Further application form will be cooler. ✌️_
+_Our website still doesn’t have a decent form for job vacancies, but it’s on its way. The future application process will be cooler. ✌️_
