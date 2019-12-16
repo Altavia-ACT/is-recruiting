@@ -1,5 +1,5 @@
 # We recruit
 
-- A **back-end developer**: [application form](https://actstar.typeform.com/to/UEwWYb).
+No technical position at the moment.
 
-_Our website still doesn’t have a decent form for job vacancies, but it’s on its way. The future application process will be cooler. ✌️_
+_For non-devish vacancies, check out [our website](https://altavia-act.com/jobs)._
