@@ -1,4 +1,4 @@
-# Back-end stack
+# Back-end developer
 
 We are looking for a **back-end developer**.
 
