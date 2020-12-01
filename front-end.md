@@ -6,7 +6,7 @@ We are looking for a **front-end developer** who likes to build friendly and per
 
 - Communication: [Basecamp](https://basecamp.com/how-it-works), [Slack](https://slack.com), GitHub ([GitHub Flow](https://guides.github.com/introduction/flow)), [English](assets/english.jpg).
 - macOS.
-- [Sketch](https://www.sketch.com).
+- [Figma](https://figma.com).
 - SCSS, [PostCSS](https://postcss.org), no CSS framework.
 - Babel, ES6+, [VueJS](https://vuejs.org) (when needed).
 - [Webpack](https://webpack.js.org), [Laravel Mix](https://laravel-mix.com).
@@ -18,7 +18,7 @@ We are looking for a **front-end developer** who likes to build friendly and per
 - Strong semantic HTML.
 - You slice a responsive UI without CSS framework.
 - At ease with SVGs and modular JavaScript.
-- Can code in a [Laravel](http://laravel.com) or [Craft CMS](https://craftcms.com) environment.
+- Can code in a [Laravel](http://laravel.com) environment.
 - Watch how the web moves, and follow it.
 - Strong communication skills using keyboards and empathy.
 - You can tell us about your projects and explain them, technical choices included.
