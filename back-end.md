@@ -6,7 +6,7 @@ We are looking for a **back-end developer**.
 
 - Communication: [Basecamp](https://basecamp.com/how-it-works), [Slack](https://slack.com), GitHub ([GitHub Flow](https://guides.github.com/introduction/flow)), [English](assets/english.jpg).
 - macOS.
-- Laravel apps (from 5.x to 8.x) managed with [url=https://forge.laravel.com/]Laravel Forge[/url].
+- Laravel apps (from 5.x to 8.x) managed with [Laravel Forge](https://forge.laravel.com).
 - [Figma](https://figma.com).
 - SCSS, [PostCSS](https://postcss.org), no CSS framework.
 - Babel, ES6+, [VueJS](https://vuejs.org) (when needed).
@@ -16,6 +16,7 @@ We are looking for a **back-end developer**.
 
 - You care about the users.
 - At ease with PHP 7+ and the Laravel ecosystem.
+- API and OAuth.
 - Can SSH a server and install/update/fix things.
 - Ability go bang your head on front-end code, including semantic HTML.
 - Watch how the web and the Laravel ecosystem move, and progress accordingly.
