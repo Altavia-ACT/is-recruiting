@@ -30,6 +30,7 @@ We are looking for a **front-end developer** who likes to build friendly and per
 - Any JS frameworks experience, preferably VueJS or [Svelte](https://svelte.dev).
 - You take privacy and GDPR very seriously.
 - Any programming or back-end experience going beyond templating engines.
+- Back-end knowledge matching the [back-end job description](https://github.com/Altavia-ACT/is-recruiting/blob/f2a63416eab7b9363719614ba974c6026421e64f/back-end.md).
 - Unit tests, CI, automation.
 - Fluent in Dutch or in French.
 - Emails slicing.
